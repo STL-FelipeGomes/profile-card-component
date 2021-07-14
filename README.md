@@ -1,5 +1,10 @@
 # profile-card-component
 
-<p>
-  A challenge, found on the website <a href="https://www.frontendmentor.io/challenges">Front-End Mentor</a>, to build a profile card
+<p style="color: red">
+  A web challenge found at <a href="https://www.frontendmentor.io/challenges"><strong>Front-End Mentor</strong></a>, which has challenges from basic to advancing with web technologies.
 </P>
+
+<p>
+  The challenge is to create a profile card.
+➜ Challenge link: <a href"https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
+</p>
