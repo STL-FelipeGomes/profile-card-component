@@ -21,7 +21,9 @@
 </main>
 
 <footer>
-  <h3>Tecnologias usadas</h3>
+  <header>
+    <h3>Tecnologias usadas</h3>
+  </header>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
