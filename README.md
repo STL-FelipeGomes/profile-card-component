@@ -7,8 +7,11 @@
 <br>
 <main>
   <h2>
-    The challenge is to create a profile card.<br>
+    The challenge
   </h2>
+  <p>
+    The challenge is to create a profile card.<br>   
+</>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href"https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
   </p>
