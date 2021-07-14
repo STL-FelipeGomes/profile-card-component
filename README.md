@@ -5,7 +5,6 @@
 </P>
 <br>
 <br>
-<hr>
 <p>
  <h2>
   The challenge is to create a profile card.<br>
