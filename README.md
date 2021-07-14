@@ -5,6 +5,7 @@
   </P>
 </header>
 <br>
+<br>
 <main>
   <h2>
     The challenge
@@ -19,6 +20,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;➜ Resultado: <a href"https://stl-felipegomes.github.io/profile-card-component/"><strong>Meu Profile Card Component</strong></a>
   </p>
 </main>
+<br>
 <br>
 <footer>
   <header>
