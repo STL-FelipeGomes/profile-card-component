@@ -6,5 +6,5 @@
 
 <p>
   The challenge is to create a profile card.<br>
-➜ Challenge link: <a href"https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
+&nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href"https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
 </p>
