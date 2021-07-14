@@ -1,6 +1,6 @@
 # profile-card-component
 
-<p style="color: red">
+<p style="red">
   A web challenge found at <a href="https://www.frontendmentor.io/challenges"><strong>Front-End Mentor</strong></a>, which has challenges from basic to advancing with web technologies.
 </P>
 
