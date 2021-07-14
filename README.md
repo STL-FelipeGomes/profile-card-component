@@ -13,11 +13,11 @@
   <p>
     The challenge is to create a profile card.<br>   
 </>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href"https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
+  <p>                                          
+    &nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;➜ Resultado: <a href"https://stl-felipegomes.github.io/profile-card-component/"><strong>Meu Profile Card Component</strong></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;➜ Resultado: <a href="https://stl-felipegomes.github.io/profile-card-component/"><strong>Meu Profile Card Component</strong></a>
   </p>
 </main>
 <br>
