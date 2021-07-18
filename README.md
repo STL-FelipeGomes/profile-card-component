@@ -12,18 +12,18 @@
   </h2>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;The challenge is to create a profile card.<br>   
-</>
+  </p>
   <p>                                          
     &nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Profile Card Component</strong></a>
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;➜ Result: <a href="https://stl-felipegomes.github.io/profile-card-component/"><strong>Meu Profile Card Component</strong></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;➜ Result: <a href="https://stl-felipegomes.github.io/profile-card-component/"><strong>My Profile Card Component</strong></a>
   </p>
 </main>
 <br>
 <br>
 <footer>
-    <h2>Tecnologias usadas</h2>
+    <h2>Main technologies</h2>
   <p>
     <ul>
       <li>HTML</li>
@@ -36,6 +36,6 @@
     OBS: At this time of publication, I'm new to the web development area, so my codes have syntactic and logical errors, any constructive criticism is welcome.
   </p>
   <p>
-    <i>"Kludge we accept, what we don't accept is defeat"<i> - My clan
+    <i>"Work around we accept, what we don't accept is defeat"<i> - My clan
   <p>
 <footer>
